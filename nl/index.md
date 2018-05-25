@@ -1728,7 +1728,7 @@ Een intelligentietest geeft dus bij benadering aan hoe intelligent iemand is. Er
 Om aan te geven hoe intelligent iemand is, worden er verschillende gradaties aangegeven, zodat de mate van intelligentie makkelijker te bevatten is. Hierbij wordt uitgegaan van een gemiddelde. De scores die de meeste mensen behalen op de test wordt 100 genoemd, met een marge van 10 naar boven en naar beneden. Elke 10 punten hoger of lager wordt ingeschaald, wat de volgende tabel oplevert:
 
 |          |                                        |
-||
+| ---------|----------------------------------------|
 | &gt; 130 | Hoogbegaafd                            |
 | 120-129  | Begaafd                                |
 | 110-119  | Bovengemiddeld                         |
