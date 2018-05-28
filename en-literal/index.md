@@ -35,7 +35,7 @@ soviet-box bold font, [Jyrki Ihalainen](mailto:yardan74@yahoo.com), © 2015 [SIL
 Top Secret font, [Anfa](mailto:anfa67@yahoo.co.uk) © All Rights Reserved.
 
 
-# <a name="iii"></a>Inleiding
+# <a name="iii"></a>Introduction
 
 ![Kaft](images/000001.jpg)
 
@@ -153,7 +153,7 @@ The postscript goes deeper into the journey of discovery that the book has been.
 
 [PART 5](#e)
 
-[Chapter 18 Sleeping, eating, cleanliness and interoception](#18)
+[Chapter 18 Sleeping, eating, toilet training and interoception](#18)
 
 [Chapter 19 Communication and social interaction](#19)
 
@@ -270,63 +270,49 @@ The DSM-IV distinguishes the following groups of developmental disorders:
 
 Autism spectrum disorders is not listed here as it falls under the pervasive developmental disorders. The term Pervasive Developmental Disorder, (PDD) is a term in psychiatry with four developmental disorders plus a catch-all group "Not otherwise Specified" (NOS). Pervasive means 'deeply penetrating', which says that it is a disorder that has a drastic impact on all areas of life.
 
+A number of disorders are no longer included in the neurobiological developmental disorders that were in the developmental disorders in the DSM-IV, such as eating disorders, disorders with bowel movements and other disorders in childhood or adolescence. These now fall into other categories.
 
+When we look at the autism spectrum disorders in the DSM 5, we see that some criteria  which have to be met, have been adjusted. For example, there is less emphasis in the DSM 5 on having problems with speech and motor skills in order to suggest an autism spectrum disorder.
 
+Researchers often find it difficult to classify children under the DSM 5. All children are still in need of some guidance. They are still growing, learning and developing. Normal to gifted autistic children often need more guidance and support, but that does not mean that they will need as much when they are adults. Until now it was not normal to adjust a diagnosis given under the Autism Spectrum Disorders. Diagnosis given under the DSM IV, such as Classical autism, Asperger's, PDD-NOS, were keep for your whole life. But now under the DSM 5 this is different, a child with ASD II can well develop into an adult with ASD I. The DSM 5 can motovate autistics (and their environment) to develope towards a ASD I diagnosis. The diagnosis requiring the least need for help.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Autismespectrumstoornissen zien we hier niet bij staan. Autisme valt hierbij onder de pervasieve ontwikkelingsstoornissen. De term pervasieve ontwikkelingsstoornis (Pervasive Developmental Disorder, PDD) is een term in de psychiatriewaarmee vier ontwikkelingsstoornissenplus een restgroep (NOS – Not otherwise Specified, niet nader omschreven) worden aangeduid. Met 'pervasief' wordt 'diep doordringend' bedoeld, wat eigenlijk betekent dat het een stoornis betreft die ingrijpend is op alle levensgebieden.
-
-Als synoniem wordt ook wel de term autismespectrumstoornissen of autismegebruikt, maar op etiologische (oorzakelijke)gronden en gedragsclassificaties houdt dit niet voor iedereen hetzelfde in. De oorzaken en de gedragingen bij een diagnose 'autismespectrumstoornis' zijn dus zeer divers. 
-
-Bij de DSM-IV wordt autisme onderverdeeld in: klassiek autisme, het syndroom van Asperger en PDD-NOS. Bij PDD-NOS zijn er voldoende kenmerken van autisme aanwezig, maar alles bij elkaar voldoet het niet helemaal aan de criteria om te kunnen spreken van klassiek autisme of het syndroom van Asperger en horen daarom bij een restgroep. Deze namen (autisme, Asperger en PDD-NOS) zijn welbekend bij de meeste mensen. Verder vallen de stoornis van RETT, de 'desintegratiestoornis in de kinderleeftijd' en MCDD bij de DSM-IV nog onder de paraplu van autisme. Op deze stoornissen wordt in dit boek niet verder ingegaan.
-
-Bij de DSM 5 is de onderverdeling van autisme anders dan bij de DSM-IV. De bekende namen als klassiek autisme, Asperger, PDD-NOS en dergelijke vallen weg. Deze stoornissen worden nu allemaal ASS (Autisme Spectrum Stoornis) genoemd. Er wordt nu meer gekeken naar de hulpbehoeftigheid, waarbij er onderscheid gemaakt wordt tussen ASS I, II en III. Behoor je tot de groep ASS I, dan ben je erg zelfredzaam en behoor je tot de groep ASS III dan heb je veel hulp nodig.
-
-Lange tijd werd ook aangenomen dat de diagnose Autisme inherent was aan het hebben van een verstandelijke beperking en het syndroom van Asperger juist inherent aan het hebben van een hoog IQ. Niets is minder waar en daarom is de DSM5 ook aangepast aan wat we tegenwoordig weten van autisme en is de classificatie Klassiek Autisme, Asperger en PDD-NOS losgelaten om plaats te maken voor de classificatie van ASS naar aanleiding van de mate van hulpbehoevendheid.
-
-In de DSM 5 heeft autisme een eigen categorie gekregen. Het valt nu onder de neurobiologische ontwikkelingsstoornissen.
-
-De neurobiologische ontwikkelingsstoornissen zijn een groep van stoornissen, die zich manifesteren in de loop van de ontwikkeling van het individu, en vaak al op zeer jonge leeftijd. In de psychiatrie zegt men dat hersenafwijkingen hierbij een belangrijke rol spelen. Neurobiologisch wil zeggen: alles wat met de ontwikkeling en de werking van het zenuwstelsel te maken heeft. Het zenuwstelsel geeft prikkels door aan de hersenen. De hersenen zetten die prikkels om in informatie en zorgt ervoor dat het lichaam reageert op die informatie. De werking van het zenuwstelsel en de werking van de hersenen hebben dus grote invloed op hoe wij de wereld om ons heen waarnemen en hoe we reageren.
-
-De neurobiologische ontwikkelingsstoornissen in de DSM 5 zijn:
-
-* Aandachtsdeficiëntie-/hyperactiviteitsstoornis (ADHD)
-* Autismespectrumstoornissen
-* Verstandelijke beperkingen (globale ontwikkelingsachterstand)
-* Communicatiestoornissen (taalstoornis, spraakklankstoornis, stoornis in de spraakvloeiendheid in de kindertijd, sociale (pragmatische) communicatiestoornis)
-* Specifieke leerstoornissen (zoals dyslexie, dyscalculie)
-* Motorische stoornissen (Coördinatieontwikkelingsstoornis, Stereotype-bewegingsstoornis)
-* Ticstoornissen (stoornis van Gilles de la Tourette)
-
-Een aantal stoornissen staan niet bij de neurobiologische ontwikkelingsstoornissen die wel bij de ontwikkelingsstoornissen stonden in de DSM-IV, zoals eetstoornissen, stoornissen met de ontlasting en andere stoornissen in de kinderleeftijd of adolescentie. Deze vallen nu in andere categorieën.
-
-Wanneer we kijken naar de autismespectrumstoornissen in de DSM 5 zien we dat sommige criteria, waaraan voldaan moet worden, zijn aangepast. Er wordt in de DSM 5 bijvoorbeeld minder nadruk gelegd op het hebben van problemen met de spraak en de motoriek om van een autismespectrumstoornis te kunnen spreken.
-
-Onderzoekers vinden het nog vaak moeilijk om kinderen volgens de DSM 5 te classificeren. Alle kinderen zijn namelijk nog hulpbehoevend. Ze zijn nog aan het groeien, aan het leren en het zich ontwikkelen. Normaal- tot hoogbegaafde autistische kinderen hebben vaak wat meer begeleiding en ondersteuning nodig, maar dat wil niet zeggen dat ze dat als volwassenen ook nog nodig zullen hebben. Het was tot nu toe niet gebruikelijk om een diagnose binnen de Autisme Spectrum Stoornissen aan te passen. Bij de DSM IV worden diagnoses gegeven, zoals Klassiek autisme, Asperger, PDD-NOS die je je hele leven blijft houden. Maar bij de DSM 5 is dat anders, want een kind met ASS II kan best uitgroeien tot een volwassene met ASS I. De DSM 5 kan autisten (en hun omgeving) stimuleren om te groeien naar een ASS I diagnose. Een diagnose met de minste hulpbehoevendheid.
-
-## <a name="3"></a>Hoofdstuk 3 Neurobiologische ontwikkeling (algemeen)
+## <a name="3"></a>Chapter 3 Neurobiological development &#40;general&#41;
 
 In de DSM 5 staat dat autisme een neurobiologische ontwikkelingsstoornis is en dat het dus te maken heeft met de mate waarin de hersenen de prikkels die binnen komen omzetten in praktische informatie waardoor je adequaat op een situatie kan reageren. Dit proces is bij mensen met een neurobiologische ontwikkelingsstoornis gestoord oftewel het functioneert anders dan bij de meeste mensen.
+
+HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE 
+
+Chapter 3 Neurobiological development (general)
+
+The DSM 5 states that autism is a neurobiological developmental disorder and that it therefore has to do with the extent to which the brain converts the stimuli that come in into practical information so that you can adequately respond to a situation. This process is disrupted in people with a neurobiological development disorder or it functions differently than in most people.
+
+Much research is still being done into the functioning of the brain, because little is known about the brain and how it works. It is very complicated matter. Nevertheless, an attempt is made here to tell something about what is known about the brain at the moment, and of course especially about what people with autism run into. In this chapter we will try to tell something about the normal development of the brain, and especially about the areas that seem to develop differently among autistic people.
+
+The development of the brain starts during pregnancy. The brain grows and develops until someone is about 23 years old.
+
+At birth, the right hemisphere appears to be the dominant, ie the right hemisphere controls the baby more than the left hemisphere. But due to the child's interest in faces and the familiar games that adults do with babies, the left hemisphere is stimulated to develop. With a year or 4 to 6 the left hemisphere is so far that it now dominates. It is also said that children are ready for school, because for school the development of the left hemisphere is very important.
+
+There is much to do about dominance of brain halves and whether that dominance actually exists, because the halves work together. Whether you speak of dominance or not, it is a fact that despite the fact that both hemispheres work closely together, they each have their own specialties. In some things, one brain is better than the other and the other way around. If there is a brain damage in one brain, the other can usually take over part of it, but often it still helps.
+
+Scientists have done a lot of research into the specific functions of the brain halves. For example, research has been done on people with frequent seizures. To prevent the attacks, the hemispheres were surgically separated. The epileptic seizures were significantly less, but the signals from the hemispheres could no longer be passed on to each other and no longer worked together in the usual way. In addition, there has also been a lot of research on people with brain injuries (due to an accident, tumor or otherwise) where parts of the brain no longer functioned (optimally). All these studies show that different parts of the brain have different functions and specialties.
+
+The specialties of the hemispheres are explained in more detail below.
+
+The left hemisphere focuses mainly on matters such as analytical and logical thinking, organizing, structuring, categorizing, planning, speech, spelling, word and number recognition.
+
+People with a well-developed left brain are usually better at analyzing and processing information, can answer questions more quickly, think verbally, have better expressive language abilities, a linear approach, are symbolic, time-bound, orderly, well-organized, can get along well with schedules. keep and have few problems with finishing their work / task.
+
+This has major advantages at school, where one mainly focuses on those matters where the left brain is good at and stimulates the further development thereof.
+
+The right hemisphere focuses mainly on such things as intuition, sensitivity, daydreaming, spontaneity, humor, emotions, discovering, experimenting, being inventive, musical expression, learning through experiences, holism (seeing things as a whole) and creativity.
+
+People with a strongly developed right hemisphere are usually better at visualizing, concretizing, remembering events, making connections, seeing through processes, having a greater imagination, being innovative, recognizing patterns faster and having a larger functional and spatial insight.
+
+School can therefore cause difficulties, because it is not geared to the development of the right hemisphere. The current school system can even ignore or punish talents of people with an over-developed right brain.
+
+When the book talks about a stronger development or over development of one of the brain halves, it does not mean that one brain is larger than the other, but that the chemical and electrical signals in the one half of the brain seem to come through better. , seem to work better and appear to be better processed than those of the other brain.
+
+
 
 Er wordt nog veel onderzoek gedaan naar de werking van het brein, want er is weinig bekend over de hersenen en hoe ze werken. Het is erg ingewikkelde materie. Toch wordt hier een poging gedaan iets te vertellen over wat er op dit moment over het brein bekend is en dan natuurlijk met name over waar mensen met autisme tegenaan lopen. In dit hoofdstuk zal geprobeerd worden globaal iets te vertellen over de normale ontwikkeling van de hersenen en dan vooral over de gebieden die zich bij autisten anders lijken te ontwikkelen.
 
@@ -354,7 +340,7 @@ School kan dus moeilijkheden opleveren, omdat die niet afgestemd is op het ontwi
 
 Wanneer er in het boek gepraat wordt over een sterkere ontwikkeling of overontwikkeling van een van de hersenhelften, wordt er niet mee bedoeld dat de ene hersenhelft groter is dan de andere, maar dat de chemische en elektrische signalen in de ene hersenhelft beter door lijken te komen, beter lijken te werken en beter verwerkt lijken te worden dan die van de andere hersenhelft.
 
-## <a name="4"></a>Hoofdstuk 4 Neurobiologische ontwikkelingsstoornis
+## <a name="4"></a>Chapter 4 Neurobiological developmental disorder
 
 Er wordt over het algemeen vanuit gegaan dat de neurobiologische ontwikkeling bij autisten gestoord is. Dat wil zeggen dat de hersenen van autisten zich anders lijken te ontwikkelen dan die van de meeste mensen. Vroeger dacht men dat het volume van de hersenen van mensen met autisme groter was dan bij anderen. Ook nu nog geven sommige wetenschappers aan dat het hersenvolume van autistische kinderen tot het 6e jaar sneller groeit dan bij anderen en dat het daarna weer vertraagd. Zij geven aan dat deze groei de oorzaak is voor de problemen waar autisten tegenaan lopen. Echter, op dit moment wordt er steeds meer gedacht dat de oorzaak ligt aan het feit dat er teveel testosteron wordt aangemaakt tijdens de zwangerschap, waardoor de rechterhersenhelft zich bij de foetus sterker ontwikkelt dan de linkerhersenhelft. Een asynchronische ontwikkeling dus van de hersenen. Zoals in het [previous chapter](#3) al naar voren kwam, betekent dat dus niet dat het volume van de ene hersenhelft groter is dan dat van de andere helft, maar dat de verbindingen van de ene helft beter werken dan de verbindingen van de andere helft. De verbindingen tússen de twee helften lijken ook minder goed te werken bij een asynchronische ontwikkeling van de hersenen.
 
@@ -380,7 +366,7 @@ Zo is de zorgvraag van mensen met een verstandelijke beperking + ASS vaak veel g
 
 In ieder geval is een verstandelijke beperking iets heel anders dan een autismespectrumstoornis. Mensen met een verstandelijke beperking hebben een globale (op alle fronten) ontwikkelingsachterstand, waarbij kinderen zich langzamer ontwikkelen dan hun leeftijdsgenootjes, maar wel volgens dezelfde ontwikkelingslijn als kinderen zonder stoornis. Bij autisten zie je juist dat de ontwikkeling anders verloopt er en dus niet dezelfde ontwikkelingslijn gevolgd wordt als bij kinderen zonder stoornis.
 
-## <a name="a-1"></a>Samenvatting deel 1
+## <a name="a-1"></a>Summary of part 1
 
 Mensen met een stoornis in het autismespectrum hebben altijd al bestaan. Pas recent, in de vorige eeuw, zijn wetenschappers autisme als aparte stoornis gaan zien. Eerst werd namelijk gedacht dat het een onderdeel was van schizofrenie.
 
@@ -400,11 +386,11 @@ Er werd (en wordt) wel eens gedacht dat klassiek autisme hetzelfde is als het he
 
 
 
-# <a name="b"></a>DEEL2
+# <a name="b"></a>PART2
 
 > Hoe de maatschappij en de hulpverlening tegen autismespectrumstoornissen aankijken in samenhang met wetenschappelijke bevindingen
 
-## <a name="5"></a>Hoofdstuk 5 Diagnose stellen van een Autisme Spectrum Stoornis
+## <a name="5"></a>Chapter 5 Diagnosing an Autism Spectrum Disorder
 
 De DSM wordt door diagnostica gebruikt om vast te stellen of er sprake is van een ASS. Niet iedereen is bevoegd om dit vast te stellen of om de onderzoeken uit te voeren die gedaan moeten worden om te weten te komen of een kind of volwassene ASS heeft. Degenen die de uiteindelijke diagnose mogen stellen zijn GZ-psychologen, psychiaters en Orthopedagoog-Generalisten. Omdat er veel bij zo'n onderzoek komt kijken, worden ze ondersteund door (ortho)pedagogen en psychologen. Zij voeren vaak een groot deel van de onderzoeken uit. Daarnaast wordt er medewerking gevraagd van ouders (lees: opvoeders/verzorgers), leerkrachten en andere betrokkenen om zoveel mogelijk informatie te vergaren over degene die onderzocht wordt.
 
@@ -446,7 +432,7 @@ Het verslag wordt aan de cliënt en/of de ouders voorgelegd in een adviesgesprek
 
 Na de onderzoeken en het verslag met handelingsadviezen kan er begonnen worden met de eventuele behandeling.
 
-## <a name="6"></a>Hoofdstuk 6 Behandeling van Autisme Spectrum Stoornissen
+## <a name="6"></a>Chapter 6 Treatment of Autism Spectrum Disorders
 
 Vroeger werden stoornissen vaak beschouwd als ziektes die behandeld moesten worden. De patiënten. moesten genezen worden. Tegenwoordig zien de meeste mensen stoornissen niet meer als een ziekte, maar als iets waar je weinig aan kunt doen. Het is niet te genezen. Maar er wordt nog steeds behandeld. De behandeling staat nu in het teken van het verbeteren van de situatie. Dit gebeurt vaak door therapieën, cursussen, trainingen en soms ook medicatie. Omdat er veel verschillende vormen van behandelen zijn, wordt daar nu kort op ingegaan. Niet alle behandelvormen en -methoden worden genoemd.
 
@@ -526,7 +512,7 @@ Bij _dwangmatig gedrag_ wordt ook _fluoxetine_ of _fluvoxamine_ voorgeschreven m
 
 Wanneer er sprake is van _slaapproblemen_ worden mensen vaak aangeraden _Circadin_ of _Melatonine_ te gebruiken. Melatonine is een hormoon dat het lichaam zelf produceert en invloed heeft op het slapen. Circadin en Melatonine zijn slaapmiddelen in de vorm van pilletjes die de werkzame stof melatonine bevatten. Je kunt het op recept in de apotheek krijgen, maar ook zonder recept kun je het in lage doseringen bij de drogist kopen. Er zijn zelden bijwerkingen, maar de bijwerkingen die het meest genoemd worden zijn: veranderingen in de bloeddruk, slaperigheid, nachtmerries en levendige dromen, lagere lichaamstemperatuur en een ochtendhumeur. Daarnaast worden ook genoemd jeuk, huiduitslag, hoofdpijn, duizeligheid, slapeloosheid, buikpijn, verstopping, droge mond, gewichtstoename, hartkloppingen, pijn op de borst, vaak en veel plassen (ook ‘s nachts), bloed in urine, irritatie, nervositeit, rusteloosheid, hyperactiviteit, zweten en gevoel van zwakte. Sommige bijwerkingen zijn tijdelijk van aard, maar het is belangrijk altijd een arts te raadplegen wanneer medicijnen gebruikt worden en vooral wanneer er bijwerkingen zijn.
 
-## <a name="7"></a>Hoofdstuk 7 Opvallendheden aan autisme
+## <a name="7"></a>Chapter 7 Autism traits
 
 Wat veel mensen vooral opvalt aan autisten zijn de problemen die zij ervaren in het omgaan met autisten. Autisten denken en doen soms anders en dat wordt voor de buitenwereld meestal zichtbaar in de communicatie en op sociaal vlak.
 
@@ -624,7 +610,7 @@ Deze lijst klinkt inderdaad een stuk positiever.
 
 Ondanks dat de ene lijst wat negatief overkomt en de andere lijst positief, lijken de opsommingen toch op elkaar. Dat komt omdat het in feite dezelfde punten zijn, maar dan anders geformuleerd. Op beide lijsten staan de punten vaak wat gegeneraliseerd en eenzijdig weergegeven. Dit kan natuurlijk ook niet anders, want er zijn zeer veel verschillen tussen autisten onderling. Er is geen eenduidig beeld te geven van autisme en autisten. Daarom herkennen niet alle autisten zich even gemakkelijk in de opsommingen.
 
-## <a name="8"></a>Hoofdstuk 8 Normalisatie en acceptatie van autisme
+## <a name="8"></a>Chapter 8 Normalization and Acceptance of Autism
 
 Wat vooral opvalt bij het lezen van de vorige twee hoofdstukken is dat de opvallendheden en de behandelingen van autisten vooral gericht zijn op de probleemgebieden van autisten zoals ze ervaren worden door mensen zonder stoornis. De probleemgebieden worden belicht en behandeld met het doel de autist zich zoveel mogelijk aan te laten passen aan de maatschappelijke norm. Ondanks dat de maatschappij stoornissen niet meer ziet als een ziekte, moet er blijkbaar toch nog iets 'beter' gemaakt worden. Des te normaler een autist overkomt, des te beter, schijnt het. Autisten moeten genormaliseerd worden, zodat ze kunnen integreren in de maatschappij.
 
@@ -684,7 +670,7 @@ ASS is zich af gaan zetten tegen een andere subcategorie, omdat de naam van de e
 
 In dit boek wordt er geen scheiding gemaakt tussen de subcategorieën van autisme. Er wordt van uitgegaan van de theorie dat alle mensen met een diagnose in het autismespectrum allemaal een overgestimuleerde rechterhersenhelft hebben waardoor ze moeilijkheden kunnen hebben in het dagelijks leven. Zoals in de inleiding staat zijn alle autisten waar we het hier over hebben, gewone mensen met een gewone intelligentie die een zo gewoon mogelijk leven (willen) leiden. Een autist is namelijk ook een kind, vader, moeder, partner, leerling, student, werknemer of werkgever en neemt deel aan de maatschappij, net als iedereen. 
 
-## <a name="9"></a>Hoofdstuk 9 Autisme - een minderheid of een stoornis?
+## <a name="9"></a>Chapter 9 Autism - a minority or a disorder?
 
 Van mensen met autisme wordt verwacht dat ze zich aanpassen aan de maatschappij. Maar naast het autisme, zijn het eigenlijk gewone mensen, maar dan met een neurobiologische stoornis. Die stoornis bestaat, volgens de theorie van de asynchronische ontwikkeling van de hersenen, uit een bijzonder brein doordat de rechterhersenhelft overontwikkeld is. Ook dyslectici, ADHD'ers en anderen (zie [Chapter 4 Neurobiological developmental disorder](#4)) schijnen een bijzonder brein en een overontwikkelde rechterhersenhelft te hebben. Ongeveer 5% van de mensheid behoort tot deze categorie. Zij zijn dus in de minderheid. Is een bijzonder brein eigenlijk wel een stoornis of is er slechts sprake van een minderheid?
 
@@ -732,7 +718,7 @@ Homosexualiteit – ja, het betreft een groep die binnen een groter geheel in aa
 
 Autisme lijkt dus dieper te gaan dan homosexualiteit. Het lijkt, volgens verschillende theorieën over een andere ontwikkeling van de hersenen bij autisten, wel degelijk een stoornis te zijn en vaak leidt dit ook tot een beperking en dat blijkt bij homosexualiteit niet het geval te zijn. Maar het verschilt ook per persoon en per situatie in hoeverre autisme een beperking is. En zoals gezegd bepaalt iemand zelf in hoeverre ze hun afwijking als handicap ervaren. Maar daarnaast blijft autisme iets dat je anders maakt dan de meeste mensen om je heen. Autistische mensen zijn in de minderheid.
 
-## <a name="10"></a>Hoofdstuk 10 Opvallendheden bij autisme nader belicht
+## <a name="10"></a>Chapter 10 Further examination of Autism traits
 
 In dit hoofdstuk wordt er nogmaals stilgestaan bij de lijst met opvallendheden bij autisme (zie [Chapter 7 Autism traits](#7)), maar dan vanuit de theorie van een asynchronische ontwikkeling van de hersenen. Misschien wordt het dan nog duidelijker dat autisten eigenlijk gewone medemensen zijn, maar met een andere neurobiologische aanleg. Het valt hierbij op dat de opvallendheden (kenmerken) vooral de zwak ontwikkelde kanten van de linker-hersenhelft betreffen. Wanneer de punten bekeken worden vanuit het neurobiologisch ontwikkelingsstoornis perspectief komt er misschien een ander beeld over autisten tevoorschijn. Natuurlijk is het nodig om te generaliseren en zal niet iedereen met autisme alles ervan herkennen bij zichzelf.
 
@@ -814,7 +800,7 @@ _Motoriek_: De algehele ontwikkeling is over het algemeen ook bepalend voor de m
 
 _Gedrag_: overweldigende, ongenuanceerde prikkels leiden vaak tot overweldigende emoties + het onvermogen om hier makkelijk over te communiceren kunnen leiden tot externaliserend gedrag.
 
-## <a name="b-1"></a>Samenvatting deel 2
+## <a name="b-1"></a>Summary of part 2
 
 Het stellen van een diagnose is een complexe zaak. Er is geen standaard procedure om iemand te onderzoeken, maar vereist maatwerk. Na de diagnose volgt soms een behandeling. Er zijn verschillende behandelvormen (cursussen, trainingen, therapieën en medicatie) die regelmatig toegepast worden bij autisme.
 
@@ -828,11 +814,11 @@ Omdat autisten eigenlijk gewone mensen zijn met een anders werkend brein, kun je
 
 Over het algemeen zijn de genoemde opvallendheden aan autisme te verklaren vanuit de gedachte dat autisme een neurobiologische stoornis is, waarbij de rechterhersenhelft overgestimuleerde is ten opzichte van de linker-hersenhelft.
 
-# <a name="c"></a>DEEL3
+# <a name="c"></a>PART 3
 
 > Hoe een autismespectrumstoornis ervaren kan worden
 
-## <a name="11"></a>Hoofdstuk 11 Impact van een autismespectrumstoornis algemeen
+## <a name="11"></a>Chapter 11 Impact of an autism spectrum disorder in general
 
 Het is een gegeven dat sommige mensen worden geboren met een autismespectrumstoornis. Autismespectrumstoornissen openbaren zich op velerlei manieren; dat wil zeggen dat niet iedereen met autisme tegen dezelfde dingen aanloopt. Iedereen is anders, dus autisten ook. De impact van de stoornis op het leven is ook anders; de stoornis wordt anders beleefd. Toch zijn er ook veel dezelfde dingen waar autisten tegenaan lopen. In veel van de verhalen van autisten over hun leven worden situaties beschreven, waaraan opvalt dat ze vaak tegen dezelfde dingen aanlopen en van dezelfde dingen last kunnen hebben in het leven. Het levert boeken vol beschrijvingen op die soms grappig zijn, anekdotes, maar ook schrijnend kunnen zijn. Wat minder vaak beschreven wordt, zijn de gevoelens die daarmee gepaard gaan. Iets waar veel autisten moeite mee lijken te hebben om onder woorden te brengen. Toch kom je tussen de regels door de gevoelens tegen waar autisten door hun moeilijkheden met en in bepaalde situaties mee te kampen hebben (gehad). In gesprekken met autisten kun je gerichte vragen stellen over hoe het voelde om in bepaalde situaties te verkeren. Dit levert heel wat informatie op, alhoewel de gesprekken niet altijd even makkelijk zijn voor de betrokken personen. In dit deel van het boek wordt getracht weer te geven welke gevoelens een rol kunnen spelen in het leven van een autist en wat voor impact een autismespectrumstoornis kan hebben. Natuurlijk zal het niet precies van toepassing zijn op alle autisten en zal er gegeneraliseerd worden. En, zoals in de inleiding wordt aangegeven, kan ook hier weer voor hij/hem, zij/haar gelezen worden.
 
@@ -878,9 +864,9 @@ Omdat emoties vaak moeilijk af te lezen zijn en het kind emoties moeilijk kan ve
 
 Autisten zijn over het algemeen gevoelsmensen die emoties extra sterk kunnen voelen, maar ze minder goed kunnen verwoorden. Soms woedt er een ware storm aan emoties van binnen die van buiten moeilijk af te lezen is. Het is daarom zaak om goed naar het kind te kijken, mee te kijken en goed te luisteren.
 
-## <a name="12"></a>Hoofdstuk 12 De jeugdige autist in verschillende omgevingen
+## <a name="12"></a>Chapter 12 The young autistic in different environments
 
-### <a name="12-1"></a>Thuis
+### <a name="12-1"></a>Home
 
 Hoe een autistisch kind thuis is en zijn thuis beleeft, is per gezin anders. Het hangt helemaal af van de gezinscultuur waarin het kind opgroeit. Dat maakt het moeilijk iets te zeggen over hoe een autistisch kind de thuissituatie beleeft. Voor het ene kind betekent de thuissituatie een veilige haven waar hij zichzelf kan zijn, voor een ander betekent het een onrustige omgeving met veel prikkels. Het is belangrijk voor ieder kind om een veilige thuishaven te hebben. Voor autistische kinderen is het bijna van levensbelang.
 
@@ -902,7 +888,7 @@ Het is dus zeer belangrijk dat er een veilige, rustige, begripvolle thuissituati
 
 Het autistische kind komt op veel plekken; opvang, school, sportclub, muziekles, op visite en ga zo maar door. Op al deze plekken worden er andere eisen aan het kind gesteld. Op de opvang moet het lekker spelen met andere kinderen, op school moet het lessen volgen, sport is meestal samenspel, muziekles volgt een bepaalde opbouw, bij iemand op visite moet je lief zijn. Het is bijna teveel om op te noemen. Dit stuk beperkt zich tot opvang en school, omdat de meeste kinderen daarmee te maken krijgen en er van sport, muziek of visite niet altijd sprake is, afhankelijk van de gezinssituatie.
 
-### <a name="12-2"></a>Opvang
+### <a name="12-2"></a>Childcare
 
 Steeds meer ouders werken allebei, waardoor een groot aantal kinderen iedere week een aantal dagen naar de opvang gaat. Op de opvang zijn er veel kinderen aanwezig en een aantal opvoeders (begeleiders). Alle kinderen krijgen over het algemeen dezelfde dingen aangeboden, bijvoorbeeld dezelfde dagstructuur, hetzelfde speelgoed en hetzelfde eten. Er wordt ook verwacht dat ze allemaal dezelfde ontwikkeling vertonen.
 
@@ -944,9 +930,9 @@ Daarnaast is een belangrijk deel van de middelbare schooltijd gericht op het oud
 
 Autistische pubers hebben dus te maken met hun veranderende lijf en hormoonhuishouding, moeten kunnen omgaan met de reuring op school en vooral ook mee kunnen komen met de meerderheid, ze moeten de weg kunnen vinden op school en naar huis en hun huiswerk kunnen plannen en ga zo maar door. Dit alles kan veel stress met zich meebrengen. Het is niet slechts zeer vermoeiend om naar een middelbare school te gaan, maar het is vaak slopend. De autistische puber komt vaak uitgeput thuis. En dan moet hij nog de berg huiswerk maken. Tijd voor het verwerken van ervaringen en emoties is er meestal nauwelijks meer.
 
-## <a name="13"></a>Hoofdstuk 13 Het volwassen leven met ASS 
+## <a name="13"></a>Chapter 13 Adult life with ASD
 
-### <a name="13-1"></a>Opleiding
+### <a name="13-1"></a>Education
 
 Wanneer de schoolperiode achter de rug is kan er een vervolgopleiding gekozen worden. Net als bij alle andere jongvolwassenen weten sommige autisten wel wat ze willen gaan doen en anderen niet.
 
@@ -968,7 +954,7 @@ Veel studenten wonen niet meer thuis en moeten dus zelf zorgen voor het huishoud
 
 Het hangt dus van een heleboel factoren af of de autistische student kan uitgroeien tot een bewuste volwassene met veel kennis van zaken of dat het helemaal niet goed gaat met hem en de studie eventueel gestaakt moet worden.
 
-### <a name="13-2"></a>Werk
+### <a name="13-2"></a>Work
 
 Na de schooltijd en/of de opleiding is het de bedoeling dat er een baan gevonden wordt. Sommige mensen zijn erg zeker van zichzelf, anderen zijn nog wat onzeker over het eigen kunnen. Er moeten keuzes gemaakt worden met betrekking tot welke baan zou passen. Je moet weten waar je de advertenties voor die baan kunt vinden en het solliciteren is iets dat velen nog moeten leren. Sommigen zijn er erg goed in en anderen minder goed. Een sollicitatiebrief schrijven, je C.V. opstellen, op gesprek gaan. Het zijn allemaal zaken die tijdens het solliciteren op je af komen.
 
@@ -984,7 +970,7 @@ Want autisten hebben vaak veel kwaliteiten. De meesten hebben gedegen kennis van
 
 Het is dus zaak als autist om goed te weten wat bij je past, waar je goed en minder goed in bent en om dat kenbaar te maken aan anderen, waar mogelijk.
 
-### <a name="13-3"></a>Relaties
+### <a name="13-3"></a>Relationships
 
 Een relatie is een verband tussen twee of meerdere personen. Je kunt een relatie hebben met je ouders, leerkrachten, buren, vrienden, partner, collega's enz. Voor een mens is het belangrijk om relaties met anderen aan te gaan, omdat hij anders vereenzaamt. Om relaties aan te kunnen gaan, is het handig om weet te hebben van de sociale regels die er zijn in de maatschappij. Ook is het belangrijk te kunnen communiceren en te anticiperen in een conversatie.
 
@@ -1002,7 +988,7 @@ Bij partnerrelaties kan een relatie tussen een neuro-typisch persoon en een auti
 
 Al met al is het aangaan van relaties een groot struikelblok voor veel autisten. Er wordt gezegd dat autisten liever alleen zijn, maar wellicht komt dat voort uit het feit dat sociale contacten vaak niet goed lopen en het veel energie kost die aan te gaan of te onderhouden door problemen met de communicatie en de sociale omgangsregels.
 
-### <a name="13-4"></a>Ouderschap
+### <a name="13-4"></a>Parenthood
 
 Bij de meeste mensen komt er een tijd dat er een kinderwens ontstaat. Dat is bij autistische mensen niet anders. Er komt heel wat bij het opvoeden van een kind kijken, vooral wanneer blijkt dat de ontwikkeling van het kind anders verloopt dan verwacht. De jeugd van een kind met een ASS in een gezin met neuro-typische ouders is in dit stuk al eerder aan bod gekomen. Wanneer dit kind zelf een ouder wordt, is het mogelijk dat deze ouder een neuro-typisch kind krijgt, een kind met een ASS of een kind met een andere stoornis. In het geval dat de (gediagnostiseerde) autistische ouder zelf een kind met ASS krijgt, weet hij hoe het is om een autistisch kind te zijn en kan het daarom vaak de behoeften van het kind beter begrijpen en/of aanvoelen. In het geval van een neuro-typisch kind zal dat moeilijker worden omdat de belevingswerelden uiteen liggen. Ingeval het kind een andere stoornis heeft, kan de autistische ouder vaak misschien niet helemaal bevatten waar het kind tegenaan zal lopen (net als neuro-typische ouders), maar zal hij wel heel goed begrijpen dat het niet altijd even makkelijk zal zijn voor dit kind om op te groeien en zal de ouder over het algemeen zijn uiterste best doen dit kind te ondersteunen, net als andere (neuro-typische) ouders.
 
@@ -1018,7 +1004,7 @@ Naast deze gevoelens, die ouders van autistische kinderen vaak hebben, is er ook
 
 Gelukkig kunnen de meeste autistische ouders ook intens genieten van hun kleintje. Dit geeft veel blijdschap en ook vaak de benodigde energie om voor het kind te (blijven) zorgen. Ze houden heel veel van het kind en begrijpen het kindje meestal heel goed. De eigen behoefte aan rust, duidelijkheid, enzovoort zal ervoor zorgen dat het kind dat ook krijgt. Vaak is er in een 'autistisch huis' dan ook sprake van een, van nature, veilige, rustige en begripvolle thuissituatie die dit kind zo hard nodig heeft.
 
-### <a name="13-5"></a>Bejaard
+### <a name="13-5"></a>Retirement
 
 Over autistische ouderen is weinig bekend. Er wordt tegenwoordig wel bij mensen van middelbare leeftijd een autisme spectrum stoornis geconstateerd en ook wel bij mensen van in de zestig, maar bij ouderen komt dat nog niet vaak voor. We weten dus niet hoeveel ouderen er zijn met een normale tot hoge begaafdheid en autisme. Aan de hand van de informatie uit dit boek kunnen er wel bepaalde veronderstellingen gedaan worden over waar een autistische bejaarde tegenaan zou kunnen lopen.
 
@@ -1028,7 +1014,7 @@ Mocht de autistische oudere in een verzorgingshuis komen te wonen, dan zijn er w
 
 Maar het hoeft niet. Wanneer een autistische oudere aangesloten is bij een club of als vrijwilliger iets doet, dan levert dat wellicht genoeg contact op met anderen. Of misschien wonen kinderen en kleinkinderen in de buurt, waardoor er voldoende ondersteuning is, zodat de oudere niet naar een verzorgingshuis hoeft en zo op de eigen, veilige, vertrouwde plek kan blijven wonen. Het hangt helemaal van de situatie van de oudere af of er voldoende balans is tussen rust en contact of het goed gaat met de autistische oudere of niet.
 
-## <a name="c-1"></a>Samenvatting deel 3
+## <a name="c-1"></a>Summary of part 3
 
 Wanneer je (levens) verhalen verneemt van autisten, worden er meestal situaties beschreven waarbij er iets gebeurde dat het anders zijn benadrukt. Minder duidelijk komt naar voren welke gevoelens daarmee gepaard gaan. Toch is het mogelijk, tussen de regels door en in gesprekken met autisten, die gevoelens eruit te halen. In dit deel van het boek zijn de gevoelens beschreven, zoals ze beleefd kunnen worden door autisten. Verder worden verschillende settings belicht waar autisten zich kunnen begeven en tegen welke moeilijkheden ze dan aan zouden kunnen lopen.
 
@@ -1040,11 +1026,11 @@ Of je als autist veel van deze beschreven situaties en gevoelens bij jezelf herk
 
 Het hangt van vele factoren af of de autistische persoon zijn draai vindt in de verschillende omgevingen en settings in het leven of niet. Veelal heeft het te maken met de balans tussen rust en contact, uitdaging en voorspelbaarheid.
 
-# <a name="d"></a>DEEL4
+# <a name="d"></a>PART 4
 
 > Problemen in de ontwikkeling per ontwikkelingsgebied bekeken
 
-## <a name="14"></a>Hoofdstuk 14 Problemen in de ontwikkeling 
+## <a name="14"></a>Chapter 14 Problems in development
 
 In het vorige deel kwam naar voren dat veel autisten negatieve ervaringen hebben opgedaan in hun leven en wat voor impact dat kan hebben. Vooral tijdens de jeugd, wanneer mensen zich het snelst ontwikkelen, valt het anders zijn vaak op en worden de meeste negatieve ervaringen opgedaan die het hele leven een stempel kunnen blijven drukken. Veel van die negatieve ervaringen komen voort uit het anders zijn, uit de neurobiologische ontwikkelingsstoornis. Zoals al eerder gezegd (zie [Chapter 2 Autism spectrum disorders according to the DSM](#2)) is een neurobiologische ontwikkelingsstoornis pervasief, oftewel diep doordringend. Het heeft betrekking op alle aspecten van je leven, doordat het een stoornis is in de ontwikkeling. De manier waarop je je ontwikkelt heeft dus een directe invloed op je welzijn. Tijdens de jeugd ontwikkel je je het hardst, het gaat heel snel, waardoor de stoornis of het anders zijn dan ook vaak aan het licht komt.
 
@@ -1062,7 +1048,7 @@ Omdat de ontwikkelingsgebieden die we hier gaan bespreken zich allemaal tegelijk
 
 Wanneer er een scheefgroei is in ontwikkeling, waarbij het ene gebied zich sneller of langzamer ontwikkelt t.o.v. het andere, kun je dat op alle gebieden merken. Vandaar dat de neurobiologische ontwikkelingsstoornis pervasief (diepdoordringend) wordt genoemd.
 
-## <a name="15"></a>Hoofdstuk 15 Motorische ontwikkeling
+## <a name="15"></a>Chapter 15 Development of motor skills
 
 De motoriek vormt dus een belangrijke schakel in de algehele ontwikkeling van kinderen. Voor een deel bepaalt aanleg het verloop van de motorische ontwikkeling, maar voor een groot deel ook de omgeving. Of het kind opgroeit op een plek waar het gestimuleerd wordt om te bewegen en waar bewegen ook mogelijk is, of dat het kind opgroeit op een plek waar er nauwelijks mogelijkheid is om (buiten) te spelen, bepaalt in grote mate hoe het kind zich motorisch, maar dus ook cognitief en sociaal-emotioneel, ontwikkelt.
 
@@ -1137,7 +1123,7 @@ En dan kan hypermobiliteit ook nog een rol spelen, wat invloed heeft op de spier
 
 De propriocepsis, alsmede sterke gevoelens van bij voorbeeld angst of stress, kunnen van invloed zijn op de spierspanning, die sommige autisten niet goed kunnen sturen waardoor er een te hoge of te lage spierspanning ontstaat.
 
-## <a name="16"></a>Hoofdstuk 16 Cognitieve ontwikkeling 
+## <a name="16"></a>Chapter 16 Cognitive development
 
 Er is al eerder genoemd dat de verschillende ontwikkelingsgebieden van invloed zijn op elkaar. Wanneer bijvoorbeeld de motorische ontwikkeling niet goed verloopt, is het van invloed op de cognitieve ontwikkeling. Kinderen worden namelijk geboren met een drang tot ontdekken en onderzoeken. Meestal worden ze hier ook door de omgeving in gestimuleerd. Zodra de kinderen kunnen kruipen en lopen, krijgen ze de mogelijkheid meer zelfstandig op onderzoek uit te gaan waardoor de cognitieve en de sociaal-emotionele ontwikkeling ook meer ontwikkeld kunnen worden. Wanneer het zelfstandig ontdekken en onderzoeken door moeilijkheden met de motoriek belemmerd wordt, is het dus van invloed op de manier waarop de cognitie zich ontwikkelt.
 
@@ -1267,7 +1253,7 @@ Doordat het leermateriaal voornamelijk uit wetenschappelijke boeken bestaat is h
 
 In dit hoofdstuk komt naar voren dat de ontwikkeling van de cognitie zeer complex is. Het hangt nauw samen met de sensorische informatieverwerking, de executieve functies en de ontwikkeling van de hersenen in zijn algemeenheid. Wanneer er daarbij problemen zijn of de hersenen ontwikkelen zich op een andere manier, kan dit problemen opleveren bij het opnemen, verwerken en reproduceren van informatie. In samenhang met het hebben van een andere leerstijl dan wat er op de basis- en middelbare school meestal wordt aangeboden, kan het ook leiden tot problemen op school.
 
-## <a name="17"></a>Hoofdstuk 17 Sociaal-emotionele ontwikkeling
+## <a name="17"></a>Chapter 17 Social-emotional development
 
 Zowel de motorische ontwikkeling als de cognitieve ontwikkeling zijn van invloed op de sociaal-emotionele ontwikkeling en andersom. Het kunnen spelen met anderen is al eerder aan bod gekomen, maar het leren is ook van belang. Wanneer je op een andere manier leert, praat en/of doet heeft dat een impact op het geaccepteerd worden door anderen en het mee mogen/kunnen doen met anderen, wat weer van invloed is op de sociaal-emotionele ontwikkeling en het welzijn. En wanneer de sociaal-emotionele ontwikkeling daardoor moeizaam verloopt, kun je meer moeilijkheden krijgen bij het leren en de motoriek, omdat je niet meer gemotiveerd bent om mee te doen met de rest en je je niet veilig en vertrouwd voelt. Wanneer je niet oppast ontstaat er op deze manier een negatieve spiraal die soms moeilijk doorbroken kan worden. Slechts wanneer men positieve ervaringen opdoet kan het vertrouwen, de veiligheid en de motivatie weer opgebouwd worden, waardoor men weer verder kan leren op motorisch, cognitief en sociaal-emotioneel gebied. Want veiligheid en vertrouwen, maar ook motivatie, zijn zeer belangrijk bij alle ontwikkelingsgebieden.
 
@@ -1305,7 +1291,7 @@ Kinderen worden niet geboren met een moreel besef. Door sociale omgang met ander
 
 De sociaal-emotionele ontwikkeling, inclusief de morele ontwikkeling, is voor het grootste deel dus aangeleerd. Je kunt het sociale deel van de ontwikkeling niet los zien van de emotionele ontwikkeling, aangezien ze met elkaar verweven zijn. Problemen met de sociaal-emotionele ontwikkeling hebben minder direct met de stoornis te maken die lijkt te zorgen voor verstoringen in de sensorische informatieverwerking, de executieve functies, de scheefgroei van de hersenhelften en de communicatie. Ze zijn er eerder een gevolg van, voortkomend uit een verstoorde relatie met de omgeving door de stoornis.
 
-## <a name="d-1"></a>Samenvatting deel 4
+## <a name="d-1"></a>Summary part 4
 
 In dit deel is er dieper ingegaan op de verschillende ontwikkelingsgebieden, omdat ASS in de wetenschap bekend is als een pervasieve neurobiologische ontwikkelingsstoornis. Een diep doordringende stoornis dus die van invloed is op alle ontwikkelingsgebieden door een probleem met het doorgeven, ontvangen en verwerken van informatie. Vanuit deze gedachtengang zijn de ontwikkelingsgebieden bekeken en de problemen die daarbij kunnen ontstaan.
 
@@ -1317,11 +1303,11 @@ De sociaal-emotionele ontwikkeling heeft vooral te maken met het aanleren van va
 
 Wel is het duidelijk dat de ontwikkelingsgebieden sterk met elkaar te maken hebben. De motorische en cognitieve ontwikkeling hebben een directere link met de sensorische informatieverwerking, de executieve functies en de asynchronische ontwikkeling van de hersenen dan de sociaal-emotionele ontwikkeling. Zij zijn direct en in grote mate beïnvloed door de stoornis. Maar de sociaal-emotionele ontwikkeling ondervindt er ook veel problemen door, doordat de ontwikkelingen met elkaar in verbinding staan. Je kunt de ontwikkelingsgebieden nu eenmaal niet los van elkaar koppelen. Het ene gebied is van invloed op het andere.
 
-# <a name="e"></a>DEEL5
+# <a name="e"></a>PART 5
 
 > Autismegerelateerde onderwerpen
 
-## <a name="18"></a>Hoofdstuk 18 Slapen, eten, zindelijkheid en interoceptie
+## <a name="18"></a>Sleeping, eating, toilet training and interoception
 
 In het vorige deel zijn de verschillende ontwikkelingsgebieden bekeken met betrekking tot de neurobiologische ontwikkelingsstoornis. In dit deel kijken we naar een aantal andere problemen die niet direct aan een ontwikkelingsgebied en/of de neurobiologische stoornis te koppelen zijn, maar die er wel mee te maken hebben of er sterk door beïnvloed worden.
 
@@ -1415,7 +1401,7 @@ Interoceptie speelt dus een grote rol bij emoties en emoties spelen een grote ro
 
 De moeilijkheden die veel autisten hebben met slapen, eten en zindelijkheid kunnen dus verschillende oorzaken hebben; van lichamelijke problemen, verkeerde gewoontes en stress tot het niet goed (of teveel) kunnen voelen, herkennen of interpreteren van innerlijke prikkels (interoceptie).
 
-## <a name="19"></a>Hoofdstuk 19 Communicatie en sociale interactie
+## <a name="19"></a>Chapter 19 Communication and social interaction
 
 Naast de prikkels die het lijf doorgeeft, is communicatie met de omgeving heel belangrijk, omdat de omgeving op die manier helpt om vaardigheden aan te leren en om prikkels te leren herkennen. In dit hoofdstuk wordt er dieper ingegaan op de communicatie en sociale interactie die vaak problemen opleveren tussen autisten en hun omgeving. Communicatie is nodig bij het leren begrijpen van zichzelf, van anderen, van situaties en de omgeving als geheel. Dat geldt voor iedereen, dus ook voor autisten.
 
@@ -1493,7 +1479,7 @@ Geaccepteerd worden door gelijken heeft een positief effect op het hebben van go
 
 Het aanleggen, opbouwen en onderhouden van sociaal contact kan gezien worden als een spiraal, waarbij het een spiraal kan zijn die negatief, neerwaarts, gaat of positief, opwaarts. Het is zaak om een positieve spiraal te hebben (of proberen te creëren) om zo een stabiele persoonlijkheid te vormen die goed sociaal contact heeft met gelijken.
 
-## <a name="21"></a>Hoofdstuk 21 Stress, angst, depressie en minderwaardigheidscomplex
+## <a name="21"></a>Chapter 21 Stress, anxiety, depression and inferiority complex
 
 In de previous chapterken is naar voren gekomen hoe belangrijk communicatie, sociale interactie en goede sociale contacten zijn voor het opbouwen van een eigen identiteit en het gevoel van eigenwaarde, wat weer essentieel is voor het welzijn van een mens.
 
@@ -1535,7 +1521,7 @@ Het schijnt dat bij autopsie van enkele autisten gezien werd dat hun amygdala’
 
 Wanneer er veel stress en/of angst wordt ervaren in het leven, kan het zorgen voor een ophoping van bepaalde stoffen in het lijf. Er wordt vaak meer cortisol (stresshormoon, aangemaakt door de bijnieren) gevonden in het bloed. Nadat het lichaam adrenaline heeft aangemaakt om een potentiële gevaarlijke of stressvolle situatie het hoofd te kunnen bieden, wordt er cortisol aangemaakt. Cortisol zorgt ervoor dat de pijngrens hoger wordt, dat je bloedsuikerspiegel verhoogd wordt en dat er insuline wordt aangemaakt, zodat je lijf de situatie langer vol kan houden.
 
-Naast de adrenaline en de cortisol, speelt ook het hormoon en tevens neurotransmitter serotonine een grote rol. Serotonine is de stof die belangrijke informatie doorgeeft en lichamelijke processen regelt, zoals bijvoorbeeld honger, verzadiging, slaap, temperatuur, geheugen, seksuele activiteit, pijn, gedrag, stemming en het heeft invloed op het leren. Het is dus een belangrijke stof voor de interoceptie (zie [Chapter 18 Sleeping, eating, cleanliness and interoception](#18)). Het heeft daarnaast ook een link met de prefrontale cortex waar de EF’s huizen (zie [Chapter 16 Cognitive development](#16) en [Chapter 17 Social-emotional development](#17)). Omdat het lijf niet zelf serotonine aanmaakt is het belangrijk dit uit de voeding te halen. Daarom is het ook belangrijk om regelmatig en gezond te eten en drinken (zie [Chapter 18 Sleeping, eating, cleanliness and interoception](#18)).
+Naast de adrenaline en de cortisol, speelt ook het hormoon en tevens neurotransmitter serotonine een grote rol. Serotonine is de stof die belangrijke informatie doorgeeft en lichamelijke processen regelt, zoals bijvoorbeeld honger, verzadiging, slaap, temperatuur, geheugen, seksuele activiteit, pijn, gedrag, stemming en het heeft invloed op het leren. Het is dus een belangrijke stof voor de interoceptie (zie [Chapter 18 Sleeping, eating, toilet training and interoception](#18)). Het heeft daarnaast ook een link met de prefrontale cortex waar de EF’s huizen (zie [Chapter 16 Cognitive development](#16) en [Chapter 17 Social-emotional development](#17)). Omdat het lijf niet zelf serotonine aanmaakt is het belangrijk dit uit de voeding te halen. Daarom is het ook belangrijk om regelmatig en gezond te eten en drinken (zie [Chapter 18 Sleeping, eating, toilet training and interoception](#18)).
 
 Maar tijdens een stressvolle of beangstigende situatie worden sommige lichaamsprocessen tijdelijk op een laag pitje gezet, zoals bijvoorbeeld het herstel van een wond, het verteren van eten en dat soort dingen. Er wordt dus minder informatie doorgegeven over die lichaamsprocessen. Dat betekent dat je op dat moment genoeg energie hebt om de situatie langere tijd het hoofd te kunnen bieden.
 
@@ -1623,7 +1609,7 @@ Het is dus niet verwonderlijk dat autisten vaak het gevoel hebben minder waard t
 
 Veel autisten ervaren dus stress, angst, depressie en/of minderwaardigheidsgevoelens in hun leven. Dit kan verschillende oorzaken hebben, maar negatieve ervaringen door het niet kunnen voldoen aan de neuro-typische norm spelen er meestal wel een rol bij.
 
-## <a name="22"></a>Hoofdstuk 22 Verschillen tussen mannen en vrouwen
+## <a name="22"></a>Chapter 22 Differences between men and women
 
 Wanneer we naar autisme kijken is het belangrijk om ook naar de verschillen tussen mannen en vrouwen te kijken. Deze verschillen zijn namelijk belangrijk bij het vaststellen van autisme. Autisme werd, en wordt nog steeds, vaker bij jongens en mannen vastgesteld dan bij meisjes en vrouwen. Dit komt voor een groot deel doordat Hans Asperger alleen maar jongens en Leo Kanner meer jongens dan meisjes die bepaalde overeenkomende kenmerken hadden (en die we nu relateren aan ASS), hebben onderzocht. Daardoor zijn bepaalde kenmerken beschreven die, over het algemeen, beter bij jongens met ASS passen dan bij meisjes met ASS. Bij veel vrouwen is er daardoor vroeger eerder een diagnose als persoonlijkheidsstoornis of MBD (Minimal Brain Damage) uit onderzoeken naar voren gekomen dan ASS. Doordat men nu veel meer weet over ASS en hoe ASS tot uiting komt bij meisjes, wordt er bij meisjes en vrouwen wel vaker ASS vastgesteld dan vroeger, maar toch wordt het vaak nog niet (h)erkend.
 
@@ -1653,7 +1639,7 @@ Er zijn daarnaast ook wetenschappers die het volledig oneens zijn met het versch
 
 In het bovenstaande is duidelijk te lezen dat men er over het algemeen van uitgaat dat er verschillen bestaan tussen mannen en vrouwen (anders dan de biologische), maar dat er geen eenduidige opvattingen zijn over de mogelijke oorzaken. De meeste wetenschappers zijn het er wel over eens dat omgeving en opvoeding invloed hebben op de talenten en voorkeuren van een persoon en de ontwikkeling van de persoonlijkheid en dat ieder mens met bepaalde talenten en voorkeuren wordt geboren, maar verder lopen de theorieën, onderzoeksresultaten, conclusies en meningen erg uiteen over waarom die verschillen zouden bestaan.
 
-Wel blijkt het zo te zijn dat mensen die meer voldoen aan de stereotiepe verschillen, over het algemeen eerder worden geaccepteerd door de omgeving. Dat komt omdat mensen het meestal makkelijk en fijn vinden om te categoriseren. Het scheelt namelijk een hoop energie om informatie, objecten en mensen te (kunnen) categoriseren. Een persoon is door het categoriseren makkelijker te identificeren (herkennen), waardoor je eerder bepaalde ideeën en verwachtingen hebt over een persoon en waardoor je eerder een passende reactie kunt voorbereiden en geven tijdens sociale interacties (zie [Chapter 18 Sleeping, eating, cleanliness and interoception](#18)). Daarnaast willen mensen graag bij een bepaalde groep horen om bevestigd te worden in hun gevoel van eigenwaarde en het opbouwen van de eigen identiteit (zie [Chapter 20 &#40;Social&#41; Contacts](#20)). Dit stimuleert mensen weer om aan bepaalde stereotiepen te voldoen van een bepaalde groep mensen. Dit geldt niet alleen voor de verschillen tussen mannen en vrouwen, maar voor iedere groep waar je onderdeel van uitmaakt of waarvan je onderdeel wilt zijn. Om je een man of een vrouw te voelen zul je je daarom waarschijnlijk wel een beetje conformeren aan een aantal stereotiepe kenmerken die bepalend zijn voor het algemene beeld van een man of een vrouw dat op dat moment gangbaar is.
+Wel blijkt het zo te zijn dat mensen die meer voldoen aan de stereotiepe verschillen, over het algemeen eerder worden geaccepteerd door de omgeving. Dat komt omdat mensen het meestal makkelijk en fijn vinden om te categoriseren. Het scheelt namelijk een hoop energie om informatie, objecten en mensen te (kunnen) categoriseren. Een persoon is door het categoriseren makkelijker te identificeren (herkennen), waardoor je eerder bepaalde ideeën en verwachtingen hebt over een persoon en waardoor je eerder een passende reactie kunt voorbereiden en geven tijdens sociale interacties (zie [Chapter 18 Sleeping, eating, toilet training and interoception](#18)). Daarnaast willen mensen graag bij een bepaalde groep horen om bevestigd te worden in hun gevoel van eigenwaarde en het opbouwen van de eigen identiteit (zie [Chapter 20 &#40;Social&#41; Contacts](#20)). Dit stimuleert mensen weer om aan bepaalde stereotiepen te voldoen van een bepaalde groep mensen. Dit geldt niet alleen voor de verschillen tussen mannen en vrouwen, maar voor iedere groep waar je onderdeel van uitmaakt of waarvan je onderdeel wilt zijn. Om je een man of een vrouw te voelen zul je je daarom waarschijnlijk wel een beetje conformeren aan een aantal stereotiepe kenmerken die bepalend zijn voor het algemene beeld van een man of een vrouw dat op dat moment gangbaar is.
 
 Bij autisme zijn er, zoals al eerder aangegeven, ook verschillen tussen mannen en vrouwen, waarbij hier de meest prominente verschillen (volgens de wetenschap) worden weergegeven. Vrouwelijke autisten zijn over het algemeen socialer ingesteld dan mannen. Er is namelijk meestal wel oogcontact, een mate van empathie en de onderwerpen van interesse hebben meer te maken met dieren, literatuur of idolen, wat sociaal gezien meer geaccepteerd is. Vrouwelijke autisten hebben meestal meer belangstelling voor sociale processen, waarbij de sociale processen grondig bekeken, bestudeerd en geïmiteerd kunnen worden. Hierdoor komen autistische vrouwen vaak te sociaal over om als autistisch te worden herkend.
 
@@ -1675,7 +1661,7 @@ Aan de ene kant hebben autisten vaak moeite om bij een bepaalde groep te horen. 
 
 Het is dus heel belangrijk om stil te staan bij het verschil tussen autistische mannen en vrouwen, omdat autisme je leven vormt en omdat het belangrijk is om te begrijpen waarom je anders bent dan anderen. Wanneer je weet wat er met je aan de hand is, kun je het een plaatsje geven, jezelf beter begrijpen en kun je ermee om leren gaan.
 
-## <a name="e-1"></a>Samenvatting deel 5
+## <a name="e-1"></a>Summary part 5
 
 In dit deel van het boek zijn uiteenlopende onderwerpen aan bod gekomen die met autisme te maken hebben. Het zijn onderwerpen die niet direct met de stoornis te maken hebben, maar eerder het gevolg ervan zijn.
 
@@ -1689,11 +1675,11 @@ Stress en angst spelen vaak een grote rol in het leven van autistische mensen. W
 
 Het is belangrijk om je te realiseren dat er verschillen bestaan tussen autistische mannen en vrouwen. Doordat de onderzoeken door Hans Asperger en Leo Kanner vooral georiënteerd waren op jongens, zijn de kenmerken en de gevolgen van autisme bij vrouwen onvoldoende in kaart gebracht, waardoor veel vrouwen met ASS een verkeerde diagnose hebben gekregen.
 
-# <a name="f"></a>DEEL6
+# <a name="f"></a>PART 6
 
 > Comorbiditeit
 
-## <a name="23"></a>Hoofdstuk 23 Comorbiditeit
+## <a name="23"></a>Chapter 23 Comorbidity
 
 Een Autisme Spectrum Stoornis wordt in de wetenschap gezien als een levenslange stoornis die een verminderde kwaliteit van leven geeft. Kwaliteit van leven wordt beïnvloed door de psychologische gezondheid van een persoon. Zoals in andere delen van het boek beschreven staat, ervaren veel autisten moeilijkheden op het gebied van de psychologische gezondheid. Er is onder autisten meer sprake van psychische en somatische (lichamelijke) klachten dan bij mensen zonder ASS wat de kwaliteit van leven hevig kan beïnvloeden. Soms zijn de klachten zo ernstig en/of specifiek dat er sprake is van een andere stoornis naast de autistische stoornis. Het tegelijkertijd voorkomen van ASS + een andere stoornis heet comorbiditeit (zie [Chapter 4 Neurobiological developmental disorder](#4)).
 
@@ -1729,7 +1715,7 @@ In dit deel van het boek zullen dus een paar stoornissen en problematieken belic
 
 Omdat er echter zowel bij de algemene bevolking als bij autisten zeer veel mensen met ADHD zijn (ongeveer een op de zeven mensen), zal deze stoornis wel worden belicht. En omdat een leerstoornis ook veel voorkomt bij de algehele bevolking en kinderen met ASS veel moeite kunnen hebben op school om zich staande te houden zonder leerstoornis, laat staan met leerstoornis, zal hier ook aandacht aan besteed worden. Er wordt echter begonnen met een hoofdstuk over hoogbegaafdheid, omdat dit boek specifiek gaat over normaal- tot hoogbegaafde autisten.
 
-## <a name="24"></a>Hoofdstuk 24 Hoogbegaafdheid
+## <a name="24"></a>Chapter 24 Intellectual giftedness
 
 Er zijn veel mensen met een verstandelijke beperking met een ASS, maar er zijn ook veel normaal- tot hoogbegaafde mensen met een ASS. Er zijn echter geen gegevens bekend over hoeveel normaal- tot hoogbegaafde mensen er zijn met autisme. Dit zou deels kunnen komen doordat iemand die normaal- tot hoogbegaafd is, heel goed in de gaten heeft dat een diagnose in het autistisch spectrum niet bevorderlijk is voor het dagelijks leven aangezien er een behoorlijk negatief stigma heerst over ASS in de maatschappij. En wanneer een autist een hoge mate van functioneren heeft en men daardoor een (redelijk) normaal leven kan leiden, zal er niet snel een hulpvraag aangegeven worden en/of een onderzoek worden ingesteld.
 
@@ -1967,7 +1953,7 @@ Autisten die normaal- tot hoogbegaafd zijn, vallen minder snel op en kunnen veel
 
 Hoogbegaafde kinderen met en zonder autisme zouden in veel opzichten elkaars lotgenoten kunnen zijn.
 
-## <a name="25"></a>Hoofdstuk 25 Specifieke leerstoornissen
+## <a name="25"></a>Chapter 25 Specific Learning Disorders
 
 Kinderen die tegen problemen aanlopen op school hebben vaak een andere (cognitieve) ontwikkeling, waardoor het lesaanbod niet goed aansluit. Door de andere ontwikkeling, kunnen er problemen ontstaan. Een leerstoornis is een voorbeeld van een andere ontwikkeling. Een leerstoornis wordt namelijk gezien als een afwijking in de hersenen waardoor er problemen kunnen ontstaan in het zich aanleren van bepaalde vaardigheden.
 
@@ -2061,7 +2047,7 @@ Het valt op dat de afwijkingen van de hersenen van mensen met een leerstoornis l
 
 Specifieke leerstoornissen hebben vaak een grote impact op het leven van mensen, waarbij de vaardigheden die men nodig heeft in de huidige maatschappij moeilijkheden op kunnen leveren bij het dagelijks leven.
 
-## <a name="26"></a>Hoofdstuk 26 ADHD
+## <a name="26"></a>Chapter 26 ADHD
 
 Er wordt vaak gezegd dat mensen met een specifieke leerstoornis eerder last kunnen hebben van een comorbiditeit met ADHD en andersom. 
 
@@ -2157,7 +2143,7 @@ ADHD heeft een grote impact op het dagelijks leven en daarmee de kwaliteit van l
 
 
 
-## <a name="f-1"></a>Samenvatting deel 6
+## <a name="f-1"></a>Summary part 6
 
 In dit deel van het boek is de comorbiditeit van ASS met andere stoornissen aan bod gekomen. 
 
@@ -2211,11 +2197,11 @@ Ook bij ADHD komen veel problemen voor op school en wordt er meestal een lager s
 
 In veel opzichten hebben al deze neurobiologische ontwikkelingsstoornissen veel gemeen. Sommige kenmerken en/of problemen lijken op elkaar. Ze hebben allemaal een grote invloed op de gemoedstoestand en het welzijn. 
 
-# <a name="g"></a>DEEL7
+# <a name="g"></a>PART 7
 
 > De vraag: “Waarom worden er tegenwoordig meer diagnoses gesteld?” wordt benaderd vanuit het verloop van maatschappelijke veranderingen
 
-## <a name="27"></a>Hoofdstuk 27 Veranderingen in het huiselijk leven
+## <a name="27"></a>Chapter 27 Changes in the home life
 
 In [Chapter 26 ADHD](#26) kwam naar voren dat de hoeveelheid diagnoses die gesteld wordt vragen op doen rijzen bij mensen. Men is bang dat er te snel een diagnose gegeven wordt. 
 
@@ -2223,7 +2209,7 @@ In [PART3](#c) en [Chapter 24 Intellectual giftedness](#24) kwam al naar voren d
 
 In dit deel van het boek wordt getracht deze vraag te beantwoorden. Omdat de beleving en opvattingen van mensen nauw samenhangt met maatschappelijke waarden en normen (zie [Chapter 24 Intellectual giftedness](#24)), is het belangrijk dat er gekeken wordt hoe bepaalde veranderingen zijn opgetreden in de maatschappij. Want een maatschappij is niet statisch, maar dynamisch. Het verandert in de loop der tijd. En daardoor veranderen de waarden en normen die er heersen en dus verandert ook de beleving van mensen over wat ‘normaal’ is. De maatschappij waar autisten tegenwoordig mee te maken krijgen is heel anders dan de maatschappij in vroeger tijden. Om een beeld te krijgen waarom de huidige maatschappij is zoals hij is, is het belangrijk te weten hoe de maatschappij vroeger was ten opzichte van nu en hoe men tot bepaalde denkbeelden is gekomen. Het huiselijk leven, opvoeding, onderwijs, opvang, school, werk en psychiatrie komen in dit deel van het boek aan de orde. Hierbij wordt niet diep ingegaan op de verschillende onderwerpen, maar wordt er getracht globaal een weergave te geven van veranderingen in de maatschappij en daarmee van veranderingen in opvattingen (en de beleving) van mensen.
 
-### <a name="27-1"></a>Thuis
+### <a name="27-1"></a>Home
 
 Het huiselijk leven is veel veranderd in de loop der tijd. Vroeger leefde men in kleine dorpjes of stadjes. Reizen deden gewone mensen vrijwel niet, behalve wellicht af en toe naar de dichtstbijzijnde stad waar de markt werd gehouden. Nieuws over wat er in de rest van de wereld gebeurde kwam maar mondjesmaat binnen. Iedereen kende elkaar, families woonden meestal niet ver bij elkaar vandaan. Iedereen had zijn eigen taken. Er waren maar weinig mensen die konden lezen en schrijven. Een beetje kennis van rekenen (optellen en aftrekken) en lezen was wel handig als je handelde, verder was het niet noodzakelijk. De meeste mensen werkten vooral aan huis of op het veld. De kinderen hielpen mee waar mogelijk. Er werd samen geleefd en gewerkt in, rond of in ieder geval niet ver weg van het huis. 
 
@@ -2273,7 +2259,7 @@ Maar men leeft tegenwoordig ook steeds verder weg van bijvoorbeeld het werk en d
 
 Dit alles lijkt een steeds grotere druk te leggen op mensen. Een druk die niet iedereen altijd even goed aankan.
 
-## <a name="28"></a>Hoofdstuk 28 Opvattingen over opvoeding en onderwijs toen en nu
+## <a name="28"></a>Chapter 28 Views on education and education then and now
 
 Al sinds de oudheid is er over opvoeding nagedacht en erover geschreven. Opvoeding en onderwijs gaan al sinds mensenheugenis hand in hand en lopen in elkaar over. Tegenwoordig associëren we onderwijs en leren met een school en leerkrachten, maar in feite betekent onderwijs het overbrengen van kennis, het aanleren van vaardigheden en ergens inzicht in krijgen. Dit moet dan wel gebeuren op een georganiseerde manier, dus men doet dit bewust en structureel. Vroeger werd er dus ook al onderwezen, zowel thuis als elders. Kinderen werd namelijk structureel geleerd wat ze nodig hadden om later voor zichzelf te kunnen zorgen.
 
@@ -2319,7 +2305,7 @@ Hoe autisten en andere andersdenkenden in vroeger tijden hun opvoeding hebben er
 
 Tegenwoordig ligt er meer nadruk op zelfvertrouwen, zelfstandigheid, individualiteit, opkomen voor jezelf, respect voor anderen en sociale vaardigheden. Er wordt gesteld dat men dit op kan bouwen door veiligheid en vertrouwen en dat er beter geleerd wordt door alle zintuigen aan te spreken. Mensen die anders denken voelen zich echter niet altijd veilig en vertrouwd in een overwegend neuro-typische omgeving doordat ze de wereld op een andere manier beleven. Ook wordt het gebruik van alle zintuigen bij het leren nog niet op een structurele, geordende manier aangeboden. Er is tegenwoordig vaak eerder sprake van een overvloed aan prikkels. De verwachtingen die gesteld worden en op veel mensen een druk leggen, passen ook niet altijd bij de ontwikkeling van andersdenkende mensen waardoor er veel spanning kan ontstaan.
 
-## <a name="29"></a>Hoofdstuk 29 Opvang en school door de eeuwen heen
+## <a name="29"></a>Chapter 29 Childcare and school through the ages
 
 Zoals in het [previous chapter](#28) naar voren is gekomen, werden kinderen vooral thuis onderwezen, maar er zijn ook altijd leraren en leerlingen geweest die elkaar op andere plekken ontmoetten. In de oudheid kwamen leraren en leerlingen vooral op openbare plekken bijeen en werd kennisoverdracht voornamelijk mondeling gedaan. Er was meestal geen school zoals we die nu kennen, waarbij men samenkomt in een speciaal schoolgebouw waar gestructureerde lessen worden gegeven en leerlingen worden geacht huiswerk te maken.
 
@@ -2377,7 +2363,7 @@ Met de schoolwetten kwam er meer rust, ruimte en structuur en werd het dus voor 
 
 Vooral voor dyslectische kinderen en kinderen met dyscalculie is het onderwijs erg frustrerend. De schoolwet waarbij kinderen naar school toe moesten gaan en moesten leren lezen, schrijven en rekenen zal voor deze kinderen enorm zwaar zijn geweest, vooral omdat men niet bekend was met dyslexie en dyscalculie, maar men de kinderen verweet lui, dom of stom te zijn. Helaas ervaren sommige kinderen met dyslexie of dyscalculie school nog steeds als enorm zwaar.
 
-## <a name="30"></a>Hoofdstuk 30 Werk - van ambacht tot digitalisering. 
+## <a name="30"></a>Chapter 30 Work - from craftwork through to digitization.
 
 Het werken is in de loop der tijd sterk veranderd. Van kinderen werd er verwacht dat ze hun ouders steeds meer meehielpen naarmate ze ouder werden. Vaak werd van de oudste jongen verwacht dat hij de vader op zou volgen. De andere zoons gingen dan in de leer bij een ambachtsman of werden knecht. Meisjes hielpen de moeder al vroeg mee en gingen, wanneer ze oud genoeg waren, werken als dienstmeid tot ze trouwden en een eigen huishouden te bestieren kregen.
 
@@ -2405,7 +2391,7 @@ Hoewel de industrialisatie voor veel mensen een ware hel zal zijn geweest door d
 
 Tegenwoordig is er meer ruimte om werk te kiezen dat bij je past, maar zullen velen juist de werkdruk, de vele prikkels, de werkruimtes en de verwachte zelfontplooiing als onprettig ervaren. Vooral omdat er veel nadruk ligt op het behalen van kwalificaties middels opleidingen en cursussen die wellicht niet afgestemd zijn op andersdenkenden. Daarnaast is het werk van tegenwoordig vooral gericht op het verlenen van diensten en het verwerken en bewerken van informatie. Het werk van nu is daardoor doordrenkt van communicatie voor, over en met anderen, waarbij veel samengewerkt moet worden met andere partijen, zoals collega’s, afdelingen, bedrijven enz. Door de vele prikkels die daardoor op een persoon afkomen en de andere manier van denken kan dit veel spanning veroorzaken.
 
-## <a name="31"></a>Hoofdstuk 31 Het ontstaan en verloop van de psychiatrie
+## <a name="31"></a>Chapter 31 The origins and development of psychiatry
 
 Al van oudsher bestaan er mensen die anders zijn. De meesten van hen leefden gewoon in de maatschappij. Zolang je productief was, kon je meedoen. Maar wanneer je keer op keer uitzonderlijk gedrag liet zien, dan was de kans groot dat men dacht dat je bezeten was door geesten, slechte goden of duivels. In de meeste tijden en culturen werd er op verschillende manieren geprobeerd de geest uit het lichaam te laten. De meeste manieren waren zeer pijnlijk en ware martelingen, zoals schedelboringen. Vaak werden deze gestoorden verbannen. Heel soms werden ze juist met ontzag behandeld, omdat ze contact zouden hebben met de goden.
 
@@ -2475,7 +2461,7 @@ Men heeft altijd geprobeerd de psychiatrische aandoeningen te behandelen. Vanaf 
 
 Tegenwoordig zijn veel mensen bekend met het bestaan van psychiatrische stoornissen en wordt er naar een inclusieve samenleving gestreefd.
 
-## <a name="g-1"></a>Samenvatting deel 7
+## <a name="g-1"></a>Summary part 7
 
 Omdat mensen zich vaak afvragen hoe het komt dat er tegenwoordig zoveel meer diagnoses worden gesteld dan vroeger, is gekeken naar het verloop van bepaalde maatschappelijke zaken, want deze beïnvloeden de beleving van mensen. Hierbij is gekeken naar het huiselijk leven, opvoeding en onderwijs, opvang en school, werk en de psychiatrie.
 
@@ -2511,11 +2497,11 @@ Uitgaande van de tijd vanaf de DSM, zien we dat de maatschappij zich sinds die t
 
 De vraag waarom er tegenwoordig meer diagnoses gesteld worden dan vroeger kan dus beantwoord worden door te stellen dat de paradox van de vrijheid van de eigen identiteit en de zelfontplooiing tegen de hogere verwachtingen die de maatschappij stelt en de overvloed aan prikkels, ervoor zorgt dat mensen die daar moeite mee hebben meer opvallen en vaker onderzocht worden, waardoor er meer diagnoses gesteld worden.
 
-# <a name="h"></a>DEEL8
+# <a name="h"></a>PART 8
 
 > Samenvatting, conclusie en discussiepunten
 
-## <a name="32"></a>Hoofdstuk 32 Samenvatting en conclusie
+## <a name="32"></a>Chapter 32 Summary and conclusion
 
 Zo’n 75 jaar geleden is de term autisme ontstaan. Een aantal wetenschappers hebben bepaald gedrag onderzocht en het autisme genoemd. Sinds die tijd zijn er verschillende theorieën ontstaan over wat autisme is en wat de oorzaak van autisme zou kunnen zijn.
 
@@ -2575,7 +2561,7 @@ Een paar voorbeelden, van banen die volwassen, normaal- tot hoogbegaafde autiste
 
 Kortom, autisme is een andere manier van beleven en van denken waar de maatschappij (nog) niet voor open staat. Hierdoor wordt van autisten verwacht dat zij zich aanpassen. De meeste autisten willen dat ook, omdat ze dan geaccepteerd worden. Geaccepteerd worden is zeer belangrijk voor een mens. Daarom doen de meeste autisten daar hun uiterste best voor. Dit kost echter enorm veel energie en de meesten zullen zich desondanks altijd anders blijven voelen. Het gevoel er niet bij te horen of anders te zijn gaat vaak ten koste van het welzijn. Door het niet geaccepteerd worden zoals ze zijn, wordt er een aanslag gepleegd op de psychische (en lichamelijke) gezondheid van autisten.
 
-## <a name="33"></a>Hoofdstuk 33 Ontdekkingen, inzichten en eigen mening
+## <a name="33"></a>Chapter 33 Discoveries, insights and own opinion
 
 (Begin [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), zie nawoord)
 
@@ -2657,7 +2643,7 @@ Als laatste was het recente onderzoek naar het autistische brein zeer interessan
 
 (Einde [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), zie nawoord)
 
-## <a name="34"></a>Hoofdstuk 34 Discussiepunten
+## <a name="34"></a>Chapter 34 Discussion points
 
 Naast de ontdekkingen en inzichten, zijn er ook punten naar voren gekomen waar nog weinig over bekend is of waar nog onduidelijkheid over bestaat. Veel wetenschappers spreken elkaar op bepaalde punten tegen, wat het een en ander niet duidelijker maakt. Menswerk is maatwerk en vaak ook (nog) giswerk.
 
@@ -2683,7 +2669,7 @@ Verder zou het zeer interessant zijn om de REM-slaap van autisten na te gaan. Ve
 
 Het laatste discussiepunt gaat over dyslexie. Dyslexie blijkt een verzamelnaam te zijn voor verschillende problemen, waardoor de behandeling niet altijd voor iedereen even goed werkt. Wanneer er sprake is van meerdere problemen (comorbiditeit), wordt er niet eens behandeling aangeboden. Hulp bij enkelvoudige dyslexie wordt vergoed door ziektekostenverzekeraars en door gemeenten. Waarom heeft dyslexie zo’n uitzonderingspositie? Waarom krijg je met dyslexie (wat een allegaartje is aan problemen en dus niet zonder meer behandelbaar) wel veel hulp aangeboden en met andere stoornissen (zoals dyscalculie) niet?
 
-## <a name="35"></a>Nawoord
+## <a name="35"></a>Postscript
 
 Het schrijven van dit boek is een hele reis geweest. Het begon als een samenvatting van een paar bladzijden over wat autisme inhoudt, maar er komt zoveel bij autisme kijken dat het uitgedraaid is op een boek. Een boek waarin alle onderwerpen kort belicht zijn, omdat wanneer uitgebreid ingegaan zou zijn op ieder onderdeel het boek tien keer zo groot zou zijn geworden. Omdat het de bedoeling was dat het boek handzaam zou blijven, is ervoor gekozen om de onderwerpen summier weer te geven.
 
@@ -2711,7 +2697,7 @@ Manon Fallon
 
 Bronvermelding
 
-### <a name="35-1"></a>Geraadpleegde literatuur:
+### <a name="35-1"></a>Reference Literature
 
 Adams, M. (2008). Intelligentie en probleemgedrag bij een diagnosestelling PDD-NOS, ADHD of de gecombineerde diagnose. Universiteit van Tilburg. Retrieved from: http://arno.uvt.nl/show.cgi?fid=113070
 
@@ -3131,7 +3117,7 @@ Zimbardo, Ph. G., Johnson, R.L., McCann, V. (2013). Psychologie, een inleiding. 
 
 Zoon, M., Pots, C. (2011). Wat werkt bij combinaties van psychische stoornissen? Nederlands Jeugd Instituut. Utrecht. Retrieved from: http://www.nji.nl/nl/Download-NJi/Wat-werkt-publicatie/Watwerkt\_combinatiesvanstoornissen.pdf 
 
-### <a name="35-2"></a>Geraadpleegde websites:
+### <a name="35-2"></a>Reference websites:
 
 https://www.aapcpublishing.net/the-outlook/interoception-the-eighth-sensory-system.aspx
 
@@ -3757,7 +3743,7 @@ https://dyspraxievolwassenen.wordpress.com/verschil-grove-motoriek-fijne-motorie
 
 http://www.zonmw.nl/nl/themas/thema-detail/domein-preventiekader-sport-bewegen-en-voeding/onderzoek-naar-voeding-cognitie-en-gedrag/
 
-### <a name="35-3"></a>Een aantal interessante wikipedia pagina’s:
+### <a name="35-3"></a>Some interesting wikipedia pages
 
 https://en.wikipedia.org/wiki/Hans_Asperger
 
