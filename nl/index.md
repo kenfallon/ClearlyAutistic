@@ -207,7 +207,7 @@ In het nawoord wordt er iets dieper ingegaan op de ontdekkingsreis die het boek 
 
 # <a name="a"></a>DEEL1
 
-Het ontstaan van en de huidige wetenschappelijke kijk op autismespectrumstoornissen
+> Het ontstaan van en de huidige wetenschappelijke kijk op autismespectrumstoornissen
 
 ## <a name="1"></a>Hoofdstuk 1 Het ontstaan van autismespectrumstoornissen
 
@@ -374,7 +374,7 @@ Er werd (en wordt) wel eens gedacht dat klassiek autisme hetzelfde is als het he
 
 # <a name="b"></a>DEEL2
 
-Hoe de maatschappij en de hulpverlening tegen autismespectrumstoornissen aankijken in samenhang met wetenschappelijke bevindingen
+> Hoe de maatschappij en de hulpverlening tegen autismespectrumstoornissen aankijken in samenhang met wetenschappelijke bevindingen
 
 ## <a name="5"></a>Hoofdstuk 5 Diagnose stellen van een Autisme Spectrum Stoornis
 
@@ -802,7 +802,7 @@ Over het algemeen zijn de genoemde opvallendheden aan autisme te verklaren vanui
 
 # <a name="c"></a>DEEL3
 
-Hoe een autismespectrumstoornis ervaren kan worden
+> Hoe een autismespectrumstoornis ervaren kan worden
 
 ## <a name="11"></a>Hoofdstuk 11 Impact van een autismespectrumstoornis algemeen
 
@@ -1014,7 +1014,7 @@ Het hangt van vele factoren af of de autistische persoon zijn draai vindt in de 
 
 # <a name="d"></a>DEEL4
 
-Problemen in de ontwikkeling per ontwikkelingsgebied bekeken
+> Problemen in de ontwikkeling per ontwikkelingsgebied bekeken
 
 ## <a name="14"></a>Hoofdstuk 14 Problemen in de ontwikkeling 
 
@@ -1291,7 +1291,7 @@ Wel is het duidelijk dat de ontwikkelingsgebieden sterk met elkaar te maken hebb
 
 # <a name="e"></a>DEEL5
 
-Autismegerelateerde onderwerpen
+> Autismegerelateerde onderwerpen
 
 ## <a name="18"></a>Hoofdstuk 18 Slapen, eten, zindelijkheid en interoceptie
 
@@ -1663,7 +1663,7 @@ Het is belangrijk om je te realiseren dat er verschillen bestaan tussen autistis
 
 # <a name="f"></a>DEEL6
 
-Comorbiditeit
+> Comorbiditeit
 
 ## <a name="23"></a>Hoofdstuk 23 Comorbiditeit
 
@@ -2185,7 +2185,7 @@ In veel opzichten hebben al deze neurobiologische ontwikkelingsstoornissen veel 
 
 # <a name="g"></a>DEEL7
 
-De vraag: “Waarom worden er tegenwoordig meer diagnoses gesteld?” wordt benaderd vanuit het verloop van maatschappelijke veranderingen
+> De vraag: “Waarom worden er tegenwoordig meer diagnoses gesteld?” wordt benaderd vanuit het verloop van maatschappelijke veranderingen
 
 ## <a name="27"></a>Hoofdstuk 27 Veranderingen in het huiselijk leven
 
@@ -2485,7 +2485,7 @@ De vraag waarom er tegenwoordig meer diagnoses gesteld worden dan vroeger kan du
 
 # <a name="h"></a>DEEL8
 
-Samenvatting, conclusie en discussiepunten
+> Samenvatting, conclusie en discussiepunten
 
 ## <a name="32"></a>Hoofdstuk 32 Samenvatting en conclusie
 
