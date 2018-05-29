@@ -278,20 +278,16 @@ Researchers often find it difficult to classify children under the DSM 5. All ch
 
 ## <a name="3"></a>Chapter 3 Neurobiological development &#40;general&#41;
 
-In de DSM 5 staat dat autisme een neurobiologische ontwikkelingsstoornis is en dat het dus te maken heeft met de mate waarin de hersenen de prikkels die binnen komen omzetten in praktische informatie waardoor je adequaat op een situatie kan reageren. Dit proces is bij mensen met een neurobiologische ontwikkelingsstoornis gestoord oftewel het functioneert anders dan bij de meeste mensen.
 
-HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE 
 
-Chapter 3 Neurobiological development (general)
+The DSM 5 states that autism is a neurobiological developmental disorder. It therefore has to do with the extent to which the brain converts the incoming stimuli into practical information so that you can adequately respond to a situation. This process is disrupted in people with a neurobiological development disorder or it functions differently than in most people.
 
-The DSM 5 states that autism is a neurobiological developmental disorder and that it therefore has to do with the extent to which the brain converts the stimuli that come in into practical information so that you can adequately respond to a situation. This process is disrupted in people with a neurobiological development disorder or it functions differently than in most people.
+There is still a lot of research being done into the functioning of the brain, because not a lot is known about the brain and how it works. It is a very complicated subject. Nevertheless we will try to describe what is currently known about the brain, and focus especially on issues that an autistic person might run into. In this chapter we will talk about normal brain development in general, and in particularly talk about the areas where develop seems to differ among autistic people.
 
-Much research is still being done into the functioning of the brain, because little is known about the brain and how it works. It is very complicated matter. Nevertheless, an attempt is made here to tell something about what is known about the brain at the moment, and of course especially about what people with autism run into. In this chapter we will try to tell something about the normal development of the brain, and especially about the areas that seem to develop differently among autistic people.
+The development of the brain starts during pregnancy. The brain continues to grow and develop until someone is about 23 years old.
+At birth, the right hemisphere of the brain appears to be the dominant side, that is to say that the right hemisphere controls the baby more than the left hemisphere. However due to the child's interest in faces and the common `WHAT COMMON GAMES ?? Piekeboo ?` games that adults do with babies, the left hemisphere is also stimulated to develop. About the ages of 4 to 6 the left hemisphere has developed so far that it now domanant. This is when children are said to be ready to attend school, because the development of the left hemisphere is very important for school participation.
 
-The development of the brain starts during pregnancy. The brain grows and develops until someone is about 23 years old.
-
-At birth, the right hemisphere appears to be the dominant, ie the right hemisphere controls the baby more than the left hemisphere. But due to the child's interest in faces and the familiar games that adults do with babies, the left hemisphere is stimulated to develop. With a year or 4 to 6 the left hemisphere is so far that it now dominates. It is also said that children are ready for school, because for school the development of the left hemisphere is very important.
-
+```
 There is much to do about dominance of brain halves and whether that dominance actually exists, because the halves work together. Whether you speak of dominance or not, it is a fact that despite the fact that both hemispheres work closely together, they each have their own specialties. In some things, one brain is better than the other and the other way around. If there is a brain damage in one brain, the other can usually take over part of it, but often it still helps.
 
 Scientists have done a lot of research into the specific functions of the brain halves. For example, research has been done on people with frequent seizures. To prevent the attacks, the hemispheres were surgically separated. The epileptic seizures were significantly less, but the signals from the hemispheres could no longer be passed on to each other and no longer worked together in the usual way. In addition, there has also been a lot of research on people with brain injuries (due to an accident, tumor or otherwise) where parts of the brain no longer functioned (optimally). All these studies show that different parts of the brain have different functions and specialties.
@@ -312,17 +308,20 @@ School can therefore cause difficulties, because it is not geared to the develop
 
 When the book talks about a stronger development or over development of one of the brain halves, it does not mean that one brain is larger than the other, but that the chemical and electrical signals in the one half of the brain seem to come through better. , seem to work better and appear to be better processed than those of the other brain.
 
+```
 
 
-Er wordt nog veel onderzoek gedaan naar de werking van het brein, want er is weinig bekend over de hersenen en hoe ze werken. Het is erg ingewikkelde materie. Toch wordt hier een poging gedaan iets te vertellen over wat er op dit moment over het brein bekend is en dan natuurlijk met name over waar mensen met autisme tegenaan lopen. In dit hoofdstuk zal geprobeerd worden globaal iets te vertellen over de normale ontwikkeling van de hersenen en dan vooral over de gebieden die zich bij autisten anders lijken te ontwikkelen.
+Er is veel te doen over dominantie van hersenhelften en of die dominantie wel echt bestaat, omdat de helften met elkaar samenwerken
+Of je nou spreekt over dominantie of niet, het is een feit dat ondanks dat de beide hersenhelften nauw samenwerken, ze wel ieder hun eigen specialiteiten hebben
+In sommige dingen is de ene hersenhelft beter dan de andere en andersom
+Als er een hersenbeschadiging is in de ene hersenhelft, kan de andere het meestal gedeeltelijk overnemen, maar vaak blijft het toch behelpen.
 
-De ontwikkeling van de hersenen start tijdens de zwangerschap. De hersenen groeien en ontwikkelen door totdat iemand een jaar of 23 is.
-
-Bij de geboorte lijkt de rechterhersenhelft het dominantst te zijn, dat wil zeggen dat de rechterhersenhelft de baby meer aanstuurt dan de linker-hersenhelft. Maar door de interesse van het kind in gezichten en door bekende spelletjes die volwassenen doen met baby's wordt de linkerhersenhelft gestimuleerd zich te ontwikkelen. Met een jaar of 4 tot 6 is de linkerhersenhelft zover dat deze nu domineert. Er wordt ook wel gezegd dat kinderen dan schoolrijp zijn, want voor school is de ontwikkeling van de linkerhersenhelft zeer belangrijk.
-
-Er is veel te doen over dominantie van hersenhelften en of die dominantie wel echt bestaat, omdat de helften met elkaar samenwerken. Of je nou spreekt over dominantie of niet, het is een feit dat ondanks dat de beide hersenhelften nauw samenwerken, ze wel ieder hun eigen specialiteiten hebben. In sommige dingen is de ene hersenhelft beter dan de andere en andersom. Als er een hersenbeschadiging is in de ene hersenhelft, kan de andere het meestal gedeeltelijk overnemen, maar vaak blijft het toch behelpen.
-
-Wetenschappers hebben veel onderzoek gedaan naar de specifieke functies van de hersenhelften. Er is bijvoorbeeld onderzoek gedaan naar mensen met veelvuldige epileptische aanvallen. Om de aanvallen tegen te gaan werden de hersenhelften chirurgisch gescheiden. De epileptische aanvallen werden beduidend minder, maar de signalen van de hersenhelften konden niet meer aan elkaar doorgegeven worden en werkten niet meer samen op de gewone manier. Daarnaast is er ook veel onderzoek geweest naar mensen met hersenletsel (door een ongeluk, tumor of anderszins) waarbij delen van de hersenen niet meer (optimaal) functioneerden. Uit al deze onderzoeken komt naar voren dat verschillende delen van de hersenen verschillende functies en specialiteiten hebben.
+Wetenschappers hebben veel onderzoek gedaan naar de specifieke functies van de hersenhelften
+Er is bijvoorbeeld onderzoek gedaan naar mensen met veelvuldige epileptische aanvallen
+Om de aanvallen tegen te gaan werden de hersenhelften chirurgisch gescheiden
+De epileptische aanvallen werden beduidend minder, maar de signalen van de hersenhelften konden niet meer aan elkaar doorgegeven worden en werkten niet meer samen op de gewone manier
+Daarnaast is er ook veel onderzoek geweest naar mensen met hersenletsel (door een ongeluk, tumor of anderszins) waarbij delen van de hersenen niet meer (optimaal) functioneerden
+Uit al deze onderzoeken komt naar voren dat verschillende delen van de hersenen verschillende functies en specialiteiten hebben.
 
 Hieronder worden de specialiteiten van de hersenhelften nader belicht.
 
@@ -336,7 +335,8 @@ De rechterhersenhelft richt zich vooral op zaken als intuïtie, gevoeligheid, da
 
 Mensen met een sterk ontwikkelde rechterhersenhelft zijn meestal beter in visualiseren, concretiseren, gebeurtenissen onthouden, verbanden leggen, processen doorzien, hebben een grotere fantasie, zijn innovatief, herkennen patronen sneller en hebben een groter functioneel en ruimtelijk inzicht.
 
-School kan dus moeilijkheden opleveren, omdat die niet afgestemd is op het ontwikkelen van de rechterhersenhelft. Het huidige schoolsysteem kan zelfs talenten van mensen met een overontwikkelde rechterhersenhelft negeren of afstraffen.
+School kan dus moeilijkheden opleveren, omdat die niet afgestemd is op het ontwikkelen van de rechterhersenhelft
+Het huidige schoolsysteem kan zelfs talenten van mensen met een overontwikkelde rechterhersenhelft negeren of afstraffen.
 
 Wanneer er in het boek gepraat wordt over een sterkere ontwikkeling of overontwikkeling van een van de hersenhelften, wordt er niet mee bedoeld dat de ene hersenhelft groter is dan de andere, maar dat de chemische en elektrische signalen in de ene hersenhelft beter door lijken te komen, beter lijken te werken en beter verwerkt lijken te worden dan die van de andere hersenhelft.
 
